@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MSGHIC
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning PHP,Symfony, Drupal
+- 👋 Hi, I’m MSG
+- 👀 I’m interested in Data Science and Web Apps Development
+- 🌱 I continue to learn Python, Django, Wagtail,SQL(PostgreSQL, MySQL), PHP,Symfony, Drupal ...
 - 📫 How to reach me ...msgizaasum@gmail.com
 
 <!---
